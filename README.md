@@ -1,5 +1,11 @@
 # Api-authentication-with-JWT
 
+## Requisitos
+```
+Docker
+Docker compose 3 ou superior
+```
+
 ## Rodar o script 
 ```
 ./run_project.sh
