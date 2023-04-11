@@ -1,8 +1,8 @@
 # Api-authentication-with-JWT
 
-# Rodar o script : ./run_project.sh
+... Rodar o script : ./run_project.sh
 
-# Adicionar no .env
+... Adicionar no .env
 
 DB_CONNECTION=pgsql
 DB_HOST=database
@@ -13,4 +13,4 @@ DB_PASSWORD=secret
 
 JWT_SECRET=8O1bjSDsOSVA0I5hHqqjA2WJqeCjoyw4mlj6bimA6F8m0f12sS52K4tYXgkHDxiU
 
-# Fazer teste no insomnia ou postman
+... Fazer teste no insomnia ou postman
